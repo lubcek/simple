@@ -1,5 +1,7 @@
 l = []
 a = ''
+print('Welcome to Shopping List Creator, 1.0\n')
+
 print('Pro konec zadávání napište k')
 while a!='k':
     a = input('Zadej položku na nákup do seznamu: ')
