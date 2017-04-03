@@ -27,6 +27,10 @@
 
 `git checkout <větev>`
 
+## Jak vytvořit novou větev?
+
+`git checkout -b <nová větev>`
+
 Lukáš Růžička, 2017
 
 
