@@ -27,4 +27,6 @@
 
 `git checkout <větev>`
 
+Lukáš Růžička, 2017
+
 
