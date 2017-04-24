@@ -23,6 +23,9 @@
 ## Jak aktualizovat repozitář?
 `git pull`
 
+## Jak aktualizovat repozitář, v případě, že někdo mohl provést důležité změny.
+`git pull --rebase`
+
 ## Jak si změnit větev?
 
 `git checkout <větev>`
